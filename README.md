@@ -1,2 +1,2 @@
 # Public-code Flagspace
-old code created over a variety of different types of games
+old code created from a group project setting up a timer and selecting game mode system
